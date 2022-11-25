@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
-//dbas;bsa;odaoid
+// test 2
 
 public class Shooter : MonoBehaviour
 {
@@ -18,6 +18,7 @@ public class Shooter : MonoBehaviour
   // Start is called before the first frame update
   void Start()
     {
+        
         mainCamera = Camera.main.transform;
     }
 
